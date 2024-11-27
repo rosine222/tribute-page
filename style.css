@@ -1,0 +1,65 @@
+body{
+    text-align: center;
+    color: #333;
+    margin: 0;
+    line-height: 20px;
+    font-size: 16px;
+}
+h1{
+    margin-bottom: 0;
+    font-size: 42px;
+}
+h2{
+    font-size: 16px;
+}
+#main{
+    margin: 20px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background: #eee; 
+    
+}
+#img-div{
+background:white;
+padding: 10px;
+margin: 0;
+}
+#img{
+    max-width: 100%;
+    display:block ;
+    height: auto;
+    margin: 0 auto; 
+}
+#img-caption{
+    margin: 15px 0 5px 0;
+}
+a.visited{
+    color: #74638f;
+}
+#tribute-info h2{
+    margin: 50px 0;
+    text-align: center; 
+}
+ul{
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 25.6px;
+    font-size: 16px;
+
+}
+li{
+    margin: auto;
+}
+blockquote{
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    
+}
+cite{
+    display: block;
+    margin-top: 5px;
+
+} 
